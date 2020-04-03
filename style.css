@@ -1,0 +1,23 @@
+input {
+    border: 1px solid lightgrey;
+}
+button{
+border: 1px solid lightgrey;
+}
+
+.hidden {
+    display: none;
+}
+
+#pageTitle{
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+li {
+    list-style-type: none;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding: .5em;
+    margin: .6em auto;
+}
